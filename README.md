@@ -10,7 +10,7 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto tem como objetivo principal **analisar e compreender os fatores que levam à evasão de clientes (Churn)** em uma empresa fictícia de telecomunicações. Através da **Análise Exploratória de Dados (EDA)**, limpeza e tratamento de dados, buscamos identificar padrões de comportamento e características dos clientes que cancelam seus serviços, fornecendo insights valiosos para a criação de estratégias de retenção.
+Este projeto tem como objetivo principal **analisar e compreender os fatores que levam à evasão de clientes (Churn)** da empresa Telecom X BR. Através da **Análise Exploratória de Dados (EDA)**, limpeza e tratamento de dados, buscamos identificar padrões de comportamento e características dos clientes que cancelam seus serviços, fornecendo insights valiosos para a criação de estratégias de retenção.
 
 ### 🎯 Objetivo
 
@@ -24,8 +24,7 @@ Este projeto tem como objetivo principal **analisar e compreender os fatores que
 
 O projeto está organizado da seguinte forma:
 
-* `[Desafio_TelecomX_BR_LL.ipynb]` ou `[main.ipynb]`: O notebook principal que contém todo o código de análise, desde a importação dos dados até a apresentação dos resultados e conclusões.
-* `[data/]` (pasta opcional): Se houver, a pasta para armazenar o dataset utilizado (`[nome_do_arquivo.csv]`).
+* `[Desafio_TelecomX_BR_FinaL.ipynb]`: O notebook principal que contém todo o código de análise, desde a importação dos dados até a apresentação dos resultados e conclusões.
 * `README.md`: Este arquivo de descrição do projeto.
 
 ---
