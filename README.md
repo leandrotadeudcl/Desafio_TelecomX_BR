@@ -140,4 +140,4 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 * **[Leandro Tadeu Damasceno Castro Leite]**
 * **[leandro.tadeu.dcl@gmail.com]**
 * **[www.linkedin.com/in/leandro-tadeu]**
-* **[Link para seu GitHub (Opcional)]**
+* **[(https://github.com/leandrotadeudcl)]**
