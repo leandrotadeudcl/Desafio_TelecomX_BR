@@ -53,7 +53,7 @@ Certifique-se de ter o Python instalado. Recomenda-se o uso de um ambiente virtu
 1.  **Clone o Repositório:**
     ```bash
     git clone [Desafio_TelecomX_BR_FinaL.ipynb]
-    cd [nome-do-seu-repositorio]
+    cd [(https://github.com/leandrotadeudcl/Desafio_TelecomX_BR)]
     ```
 
 2.  **Crie um Ambiente Virtual (Opcional, mas Recomendado):**
@@ -77,13 +77,13 @@ Certifique-se de ter o Python instalado. Recomenda-se o uso de um ambiente virtu
     ```
     *(Dica: Se você tiver um `requirements.txt`, use `pip install -r requirements.txt`)*
 
-5.  **Inicie o Jupyter Notebook:**
+5.  **Inicie o Google Colaboratory:**
     ```bash
-    jupyter notebook
+    Google Colaboratory
     ```
 
 6.  **Abra o Notebook:**
-    No navegador, navegue até o arquivo `[Nome_do_Notebook.ipynb]` (ou `main.ipynb`) e abra-o. Você pode executar as células sequencialmente para reproduzir a análise.
+    No navegador, navegue até o arquivo `[Desafio_TelecomX_BR_FinaL.ipynb]` (ou `main.ipynb`) e abra-o. Você pode executar as células sequencialmente para reproduzir a análise.
 
 ---
 
@@ -137,7 +137,7 @@ Com base nas análises, as seguintes recomendações estratégicas podem ser con
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-* **[Seu Nome Completo]**
-* **[Seu Email]**
-* **[Link para seu LinkedIn (Opcional)]**
+* **[Leandro Tadeu Damasceno Castro Leite]**
+* **[leandro.tadeu.dcl@gmail.com]**
+* **[www.linkedin.com/in/leandro-tadeu]**
 * **[Link para seu GitHub (Opcional)]**
