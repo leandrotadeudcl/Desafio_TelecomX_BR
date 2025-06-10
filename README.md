@@ -24,7 +24,7 @@ Este projeto tem como objetivo principal **analisar e compreender os fatores que
 
 O projeto está organizado da seguinte forma:
 
-* `[Nome_do_Notebook.ipynb]` ou `[main.ipynb]`: O notebook principal que contém todo o código de análise, desde a importação dos dados até a apresentação dos resultados e conclusões.
+* `[Desafio_TelecomX_BR_LL.ipynb]` ou `[main.ipynb]`: O notebook principal que contém todo o código de análise, desde a importação dos dados até a apresentação dos resultados e conclusões.
 * `[data/]` (pasta opcional): Se houver, a pasta para armazenar o dataset utilizado (`[nome_do_arquivo.csv]`).
 * `README.md`: Este arquivo de descrição do projeto.
 
@@ -39,7 +39,7 @@ As seguintes tecnologias e bibliotecas Python foram utilizadas neste projeto:
 * **NumPy**: Suporte a operações numéricas de alto desempenho.
 * **Matplotlib**: Criação de visualizações estáticas.
 * **Seaborn**: Criação de visualizações estatísticas atraentes.
-* **Jupyter Notebook**: Ambiente de desenvolvimento interativo.
+* **Colab Notebook**: Ambiente de desenvolvimento interativo.
 
 ---
 
