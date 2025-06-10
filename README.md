@@ -52,7 +52,7 @@ Certifique-se de ter o Python instalado. Recomenda-se o uso de um ambiente virtu
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_GITHUB]
+    git clone [Desafio_TelecomX_BR_FinaL.ipynb]
     cd [nome-do-seu-repositorio]
     ```
 
